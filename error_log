@@ -1,0 +1,312 @@
+[18-Jun-2018 19:24:00 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/deneme20/public_html/connection/baglan.php:5
+Stack trace:
+#0 /home/deneme20/public_html/connection/baglan.php(5): PDO->__construct('mysql:host=loca...', 'root', 'localhost')
+#1 /home/deneme20/public_html/header.php(1): include('/home/deneme20/...')
+#2 /home/deneme20/public_html/index.php(1): include('/home/deneme20/...')
+#3 {main}
+  thrown in /home/deneme20/public_html/connection/baglan.php on line 5
+[18-Jun-2018 19:24:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/deneme20/public_html/connection/baglan.php:5
+Stack trace:
+#0 /home/deneme20/public_html/connection/baglan.php(5): PDO->__construct('mysql:host=loca...', 'root', 'localhost')
+#1 /home/deneme20/public_html/header.php(1): include('/home/deneme20/...')
+#2 /home/deneme20/public_html/index.php(1): include('/home/deneme20/...')
+#3 {main}
+  thrown in /home/deneme20/public_html/connection/baglan.php on line 5
+[18-Jun-2018 19:24:09 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/deneme20/public_html/connection/baglan.php:5
+Stack trace:
+#0 /home/deneme20/public_html/connection/baglan.php(5): PDO->__construct('mysql:host=loca...', 'root', 'localhost')
+#1 /home/deneme20/public_html/header.php(1): include('/home/deneme20/...')
+#2 /home/deneme20/public_html/index.php(1): include('/home/deneme20/...')
+#3 {main}
+  thrown in /home/deneme20/public_html/connection/baglan.php on line 5
+[18-Jun-2018 19:24:10 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/deneme20/public_html/connection/baglan.php:5
+Stack trace:
+#0 /home/deneme20/public_html/connection/baglan.php(5): PDO->__construct('mysql:host=loca...', 'root', 'localhost')
+#1 /home/deneme20/public_html/header.php(1): include('/home/deneme20/...')
+#2 /home/deneme20/public_html/index.php(1): include('/home/deneme20/...')
+#3 {main}
+  thrown in /home/deneme20/public_html/connection/baglan.php on line 5
+[18-Jun-2018 19:24:10 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/deneme20/public_html/connection/baglan.php:5
+Stack trace:
+#0 /home/deneme20/public_html/connection/baglan.php(5): PDO->__construct('mysql:host=loca...', 'root', 'localhost')
+#1 /home/deneme20/public_html/header.php(1): include('/home/deneme20/...')
+#2 /home/deneme20/public_html/index.php(1): include('/home/deneme20/...')
+#3 {main}
+  thrown in /home/deneme20/public_html/connection/baglan.php on line 5
+[18-Jun-2018 19:24:10 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/deneme20/public_html/connection/baglan.php:5
+Stack trace:
+#0 /home/deneme20/public_html/connection/baglan.php(5): PDO->__construct('mysql:host=loca...', 'root', 'localhost')
+#1 /home/deneme20/public_html/header.php(1): include('/home/deneme20/...')
+#2 /home/deneme20/public_html/index.php(1): include('/home/deneme20/...')
+#3 {main}
+  thrown in /home/deneme20/public_html/connection/baglan.php on line 5
+[18-Jun-2018 19:24:11 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/deneme20/public_html/connection/baglan.php:5
+Stack trace:
+#0 /home/deneme20/public_html/connection/baglan.php(5): PDO->__construct('mysql:host=loca...', 'root', 'localhost')
+#1 /home/deneme20/public_html/header.php(1): include('/home/deneme20/...')
+#2 /home/deneme20/public_html/index.php(1): include('/home/deneme20/...')
+#3 {main}
+  thrown in /home/deneme20/public_html/connection/baglan.php on line 5
+[18-Jun-2018 19:24:11 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/deneme20/public_html/connection/baglan.php:5
+Stack trace:
+#0 /home/deneme20/public_html/connection/baglan.php(5): PDO->__construct('mysql:host=loca...', 'root', 'localhost')
+#1 /home/deneme20/public_html/header.php(1): include('/home/deneme20/...')
+#2 /home/deneme20/public_html/index.php(1): include('/home/deneme20/...')
+#3 {main}
+  thrown in /home/deneme20/public_html/connection/baglan.php on line 5
+[18-Jun-2018 19:24:13 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/deneme20/public_html/connection/baglan.php:5
+Stack trace:
+#0 /home/deneme20/public_html/connection/baglan.php(5): PDO->__construct('mysql:host=loca...', 'root', 'localhost')
+#1 /home/deneme20/public_html/header.php(1): include('/home/deneme20/...')
+#2 /home/deneme20/public_html/index.php(1): include('/home/deneme20/...')
+#3 {main}
+  thrown in /home/deneme20/public_html/connection/baglan.php on line 5
+[18-Jun-2018 19:24:13 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/deneme20/public_html/connection/baglan.php:5
+Stack trace:
+#0 /home/deneme20/public_html/connection/baglan.php(5): PDO->__construct('mysql:host=loca...', 'root', 'localhost')
+#1 /home/deneme20/public_html/header.php(1): include('/home/deneme20/...')
+#2 /home/deneme20/public_html/index.php(1): include('/home/deneme20/...')
+#3 {main}
+  thrown in /home/deneme20/public_html/connection/baglan.php on line 5
+[18-Jun-2018 19:24:14 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/deneme20/public_html/connection/baglan.php:5
+Stack trace:
+#0 /home/deneme20/public_html/connection/baglan.php(5): PDO->__construct('mysql:host=loca...', 'root', 'localhost')
+#1 /home/deneme20/public_html/header.php(1): include('/home/deneme20/...')
+#2 /home/deneme20/public_html/index.php(1): include('/home/deneme20/...')
+#3 {main}
+  thrown in /home/deneme20/public_html/connection/baglan.php on line 5
+[18-Jun-2018 19:24:15 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/deneme20/public_html/connection/baglan.php:5
+Stack trace:
+#0 /home/deneme20/public_html/connection/baglan.php(5): PDO->__construct('mysql:host=loca...', 'root', 'localhost')
+#1 /home/deneme20/public_html/header.php(1): include('/home/deneme20/...')
+#2 /home/deneme20/public_html/index.php(1): include('/home/deneme20/...')
+#3 {main}
+  thrown in /home/deneme20/public_html/connection/baglan.php on line 5
+[18-Jun-2018 19:24:15 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/deneme20/public_html/connection/baglan.php:5
+Stack trace:
+#0 /home/deneme20/public_html/connection/baglan.php(5): PDO->__construct('mysql:host=loca...', 'root', 'localhost')
+#1 /home/deneme20/public_html/header.php(1): include('/home/deneme20/...')
+#2 /home/deneme20/public_html/index.php(1): include('/home/deneme20/...')
+#3 {main}
+  thrown in /home/deneme20/public_html/connection/baglan.php on line 5
+[18-Jun-2018 19:24:16 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/deneme20/public_html/connection/baglan.php:5
+Stack trace:
+#0 /home/deneme20/public_html/connection/baglan.php(5): PDO->__construct('mysql:host=loca...', 'root', 'localhost')
+#1 /home/deneme20/public_html/header.php(1): include('/home/deneme20/...')
+#2 /home/deneme20/public_html/index.php(1): include('/home/deneme20/...')
+#3 {main}
+  thrown in /home/deneme20/public_html/connection/baglan.php on line 5
+[18-Jun-2018 19:24:24 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/deneme20/public_html/connection/baglan.php:5
+Stack trace:
+#0 /home/deneme20/public_html/connection/baglan.php(5): PDO->__construct('mysql:host=loca...', 'root', 'localhost')
+#1 /home/deneme20/public_html/header.php(1): include('/home/deneme20/...')
+#2 /home/deneme20/public_html/index.php(1): include('/home/deneme20/...')
+#3 {main}
+  thrown in /home/deneme20/public_html/connection/baglan.php on line 5
+[18-Jun-2018 19:24:24 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/deneme20/public_html/connection/baglan.php:5
+Stack trace:
+#0 /home/deneme20/public_html/connection/baglan.php(5): PDO->__construct('mysql:host=loca...', 'root', 'localhost')
+#1 /home/deneme20/public_html/header.php(1): include('/home/deneme20/...')
+#2 /home/deneme20/public_html/index.php(1): include('/home/deneme20/...')
+#3 {main}
+  thrown in /home/deneme20/public_html/connection/baglan.php on line 5
+[18-Jun-2018 19:24:24 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/deneme20/public_html/connection/baglan.php:5
+Stack trace:
+#0 /home/deneme20/public_html/connection/baglan.php(5): PDO->__construct('mysql:host=loca...', 'root', 'localhost')
+#1 /home/deneme20/public_html/header.php(1): include('/home/deneme20/...')
+#2 /home/deneme20/public_html/index.php(1): include('/home/deneme20/...')
+#3 {main}
+  thrown in /home/deneme20/public_html/connection/baglan.php on line 5
+[18-Jun-2018 19:24:24 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/deneme20/public_html/connection/baglan.php:5
+Stack trace:
+#0 /home/deneme20/public_html/connection/baglan.php(5): PDO->__construct('mysql:host=loca...', 'root', 'localhost')
+#1 /home/deneme20/public_html/header.php(1): include('/home/deneme20/...')
+#2 /home/deneme20/public_html/index.php(1): include('/home/deneme20/...')
+#3 {main}
+  thrown in /home/deneme20/public_html/connection/baglan.php on line 5
+[18-Jun-2018 19:24:30 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/deneme20/public_html/connection/baglan.php:5
+Stack trace:
+#0 /home/deneme20/public_html/connection/baglan.php(5): PDO->__construct('mysql:host=loca...', 'root', 'localhost')
+#1 /home/deneme20/public_html/header.php(1): include('/home/deneme20/...')
+#2 /home/deneme20/public_html/index.php(1): include('/home/deneme20/...')
+#3 {main}
+  thrown in /home/deneme20/public_html/connection/baglan.php on line 5
+[18-Jun-2018 19:24:33 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/deneme20/public_html/connection/baglan.php:5
+Stack trace:
+#0 /home/deneme20/public_html/connection/baglan.php(5): PDO->__construct('mysql:host=loca...', 'root', 'localhost')
+#1 /home/deneme20/public_html/header.php(1): include('/home/deneme20/...')
+#2 /home/deneme20/public_html/index.php(1): include('/home/deneme20/...')
+#3 {main}
+  thrown in /home/deneme20/public_html/connection/baglan.php on line 5
+[18-Jun-2018 19:24:41 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/deneme20/public_html/connection/baglan.php:5
+Stack trace:
+#0 /home/deneme20/public_html/connection/baglan.php(5): PDO->__construct('mysql:host=loca...', 'root', 'localhost')
+#1 /home/deneme20/public_html/header.php(1): include('/home/deneme20/...')
+#2 /home/deneme20/public_html/index.php(1): include('/home/deneme20/...')
+#3 {main}
+  thrown in /home/deneme20/public_html/connection/baglan.php on line 5
+[18-Jun-2018 19:24:43 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/deneme20/public_html/connection/baglan.php:5
+Stack trace:
+#0 /home/deneme20/public_html/connection/baglan.php(5): PDO->__construct('mysql:host=loca...', 'root', 'localhost')
+#1 /home/deneme20/public_html/header.php(1): include('/home/deneme20/...')
+#2 /home/deneme20/public_html/index.php(1): include('/home/deneme20/...')
+#3 {main}
+  thrown in /home/deneme20/public_html/connection/baglan.php on line 5
+[18-Jun-2018 19:24:51 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/deneme20/public_html/connection/baglan.php:5
+Stack trace:
+#0 /home/deneme20/public_html/connection/baglan.php(5): PDO->__construct('mysql:host=loca...', 'root', 'localhost')
+#1 /home/deneme20/public_html/header.php(1): include('/home/deneme20/...')
+#2 /home/deneme20/public_html/index.php(1): include('/home/deneme20/...')
+#3 {main}
+  thrown in /home/deneme20/public_html/connection/baglan.php on line 5
+[18-Jun-2018 19:30:48 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/deneme20/public_html/connection/baglan.php:5
+Stack trace:
+#0 /home/deneme20/public_html/connection/baglan.php(5): PDO->__construct('mysql:host=loca...', 'root', 'localhost')
+#1 /home/deneme20/public_html/header.php(1): include('/home/deneme20/...')
+#2 /home/deneme20/public_html/index.php(1): include('/home/deneme20/...')
+#3 {main}
+  thrown in /home/deneme20/public_html/connection/baglan.php on line 5
+[18-Jun-2018 19:30:52 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'deneme20_lego'@'localhost' to database 'deneme20_munazara'' in /home/deneme20/public_html/connection/baglan.php:5
+Stack trace:
+#0 /home/deneme20/public_html/connection/baglan.php(5): PDO->__construct('mysql:host=loca...', 'deneme20_lego', 'seyhan123')
+#1 /home/deneme20/public_html/header.php(1): include('/home/deneme20/...')
+#2 /home/deneme20/public_html/index.php(1): include('/home/deneme20/...')
+#3 {main}
+  thrown in /home/deneme20/public_html/connection/baglan.php on line 5
+[18-Jun-2018 19:30:53 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'deneme20_lego'@'localhost' to database 'deneme20_munazara'' in /home/deneme20/public_html/connection/baglan.php:5
+Stack trace:
+#0 /home/deneme20/public_html/connection/baglan.php(5): PDO->__construct('mysql:host=loca...', 'deneme20_lego', 'seyhan123')
+#1 /home/deneme20/public_html/header.php(1): include('/home/deneme20/...')
+#2 /home/deneme20/public_html/index.php(1): include('/home/deneme20/...')
+#3 {main}
+  thrown in /home/deneme20/public_html/connection/baglan.php on line 5
+[18-Jun-2018 19:30:54 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'deneme20_lego'@'localhost' to database 'deneme20_munazara'' in /home/deneme20/public_html/connection/baglan.php:5
+Stack trace:
+#0 /home/deneme20/public_html/connection/baglan.php(5): PDO->__construct('mysql:host=loca...', 'deneme20_lego', 'seyhan123')
+#1 /home/deneme20/public_html/header.php(1): include('/home/deneme20/...')
+#2 /home/deneme20/public_html/index.php(1): include('/home/deneme20/...')
+#3 {main}
+  thrown in /home/deneme20/public_html/connection/baglan.php on line 5
+[18-Jun-2018 19:30:54 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'deneme20_lego'@'localhost' to database 'deneme20_munazara'' in /home/deneme20/public_html/connection/baglan.php:5
+Stack trace:
+#0 /home/deneme20/public_html/connection/baglan.php(5): PDO->__construct('mysql:host=loca...', 'deneme20_lego', 'seyhan123')
+#1 /home/deneme20/public_html/header.php(1): include('/home/deneme20/...')
+#2 /home/deneme20/public_html/index.php(1): include('/home/deneme20/...')
+#3 {main}
+  thrown in /home/deneme20/public_html/connection/baglan.php on line 5
+[18-Jun-2018 19:31:08 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'deneme20_lego'@'localhost' to database 'deneme20_munazara'' in /home/deneme20/public_html/connection/baglan.php:5
+Stack trace:
+#0 /home/deneme20/public_html/connection/baglan.php(5): PDO->__construct('mysql:host=loca...', 'deneme20_lego', 'seyhan123')
+#1 /home/deneme20/public_html/header.php(1): include('/home/deneme20/...')
+#2 /home/deneme20/public_html/index.php(1): include('/home/deneme20/...')
+#3 {main}
+  thrown in /home/deneme20/public_html/connection/baglan.php on line 5
+[18-Jun-2018 19:31:11 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'deneme20_lego'@'193.70.19.218' to database 'deneme20_munazara'' in /home/deneme20/public_html/connection/baglan.php:5
+Stack trace:
+#0 /home/deneme20/public_html/connection/baglan.php(5): PDO->__construct('mysql:host=serv...', 'deneme20_lego', 'seyhan123')
+#1 /home/deneme20/public_html/header.php(1): include('/home/deneme20/...')
+#2 /home/deneme20/public_html/index.php(1): include('/home/deneme20/...')
+#3 {main}
+  thrown in /home/deneme20/public_html/connection/baglan.php on line 5
+[18-Jun-2018 19:32:13 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'deneme20_lego'@'localhost' to database 'deneme20_munazara'' in /home/deneme20/public_html/connection/baglan.php:5
+Stack trace:
+#0 /home/deneme20/public_html/connection/baglan.php(5): PDO->__construct('mysql:host=loca...', 'deneme20_lego', 'seyhan123')
+#1 /home/deneme20/public_html/header.php(1): include('/home/deneme20/...')
+#2 /home/deneme20/public_html/index.php(1): include('/home/deneme20/...')
+#3 {main}
+  thrown in /home/deneme20/public_html/connection/baglan.php on line 5
+[18-Jun-2018 19:32:53 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/deneme20/public_html/header.php:24) in /home/deneme20/public_html/index.php on line 4
+[18-Jun-2018 19:32:53 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/deneme20/public_html/header.php:24) in /home/deneme20/public_html/index.php on line 4
+[18-Jun-2018 19:35:00 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/deneme20/public_html/header.php:24) in /home/deneme20/public_html/index.php on line 4
+[18-Jun-2018 19:35:00 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/deneme20/public_html/header.php:24) in /home/deneme20/public_html/index.php on line 4
+[18-Jun-2018 19:35:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/deneme20/public_html/header.php:24) in /home/deneme20/public_html/index.php on line 35
+[18-Jun-2018 19:35:14 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/deneme20/public_html/header.php:24) in /home/deneme20/public_html/index.php on line 4
+[18-Jun-2018 19:35:14 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/deneme20/public_html/header.php:24) in /home/deneme20/public_html/index.php on line 4
+[18-Jun-2018 19:35:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/deneme20/public_html/header.php:24) in /home/deneme20/public_html/index.php on line 35
+[18-Jun-2018 19:35:16 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/deneme20/public_html/header.php:24) in /home/deneme20/public_html/index.php on line 4
+[18-Jun-2018 19:35:23 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/deneme20/public_html/header.php:24) in /home/deneme20/public_html/index.php on line 4
+[18-Jun-2018 19:35:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/deneme20/public_html/header.php:24) in /home/deneme20/public_html/index.php on line 35
+[18-Jun-2018 19:35:41 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/deneme20/public_html/header.php:24) in /home/deneme20/public_html/index.php on line 4
+[18-Jun-2018 19:36:43 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/deneme20/public_html/header.php:24) in /home/deneme20/public_html/index.php on line 4
+[18-Jun-2018 19:36:47 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/deneme20/public_html/header.php:24) in /home/deneme20/public_html/index.php on line 4
+[18-Jun-2018 19:36:48 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/deneme20/public_html/header.php:24) in /home/deneme20/public_html/index.php on line 4
+[18-Jun-2018 19:36:55 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/deneme20/public_html/header.php:24) in /home/deneme20/public_html/index.php on line 4
+[18-Jun-2018 19:36:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/deneme20/public_html/header.php:24) in /home/deneme20/public_html/index.php on line 35
+[18-Jun-2018 19:37:05 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/deneme20/public_html/header.php:24) in /home/deneme20/public_html/index.php on line 4
+[18-Jun-2018 19:37:13 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/deneme20/public_html/header.php:24) in /home/deneme20/public_html/index.php on line 4
+[18-Jun-2018 19:37:15 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/deneme20/public_html/header.php:24) in /home/deneme20/public_html/index.php on line 4
+[18-Jun-2018 19:37:21 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/deneme20/public_html/header.php:24) in /home/deneme20/public_html/index.php on line 4
+[18-Jun-2018 19:37:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/deneme20/public_html/header.php:24) in /home/deneme20/public_html/index.php on line 35
+[18-Jun-2018 19:37:22 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/deneme20/public_html/header.php:24) in /home/deneme20/public_html/index.php on line 4
+[18-Jun-2018 19:39:25 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/deneme20/public_html/header.php:24) in /home/deneme20/public_html/index.php on line 4
+[19-Jun-2018 06:52:18 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/deneme20/public_html/header.php:24) in /home/deneme20/public_html/index.php on line 4
+[19-Jun-2018 06:52:18 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/deneme20/public_html/header.php:24) in /home/deneme20/public_html/index.php on line 4
+[19-Jun-2018 06:52:39 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/deneme20/public_html/header.php:24) in /home/deneme20/public_html/index.php on line 4
+[19-Jun-2018 06:52:51 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/deneme20/public_html/header.php:24) in /home/deneme20/public_html/index.php on line 4
+[19-Jun-2018 10:04:59 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/deneme20/public_html/header.php:24) in /home/deneme20/public_html/index.php on line 4
+[19-Jun-2018 10:04:59 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/deneme20/public_html/header.php:24) in /home/deneme20/public_html/index.php on line 4
+[19-Jun-2018 10:06:34 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/deneme20/public_html/header.php:24) in /home/deneme20/public_html/index.php on line 4
+[19-Jun-2018 10:07:55 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/deneme20/public_html/header.php:24) in /home/deneme20/public_html/index.php on line 4
+[19-Jun-2018 10:07:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/deneme20/public_html/header.php:24) in /home/deneme20/public_html/index.php on line 35
+[19-Jun-2018 10:08:00 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/deneme20/public_html/header.php:24) in /home/deneme20/public_html/index.php on line 4
+[19-Jun-2018 10:09:19 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/deneme20/public_html/header.php:24) in /home/deneme20/public_html/index.php on line 4
+[19-Jun-2018 19:30:59 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/deneme20/public_html/connection/baglan.php:5
+Stack trace:
+#0 /home/deneme20/public_html/connection/baglan.php(5): PDO->__construct('mysql:host=loca...', 'root', 'localhost')
+#1 /home/deneme20/public_html/header.php(4): include('/home/deneme20/...')
+#2 /home/deneme20/public_html/index.php(1): include('/home/deneme20/...')
+#3 {main}
+  thrown in /home/deneme20/public_html/connection/baglan.php on line 5
+[19-Jun-2018 19:31:47 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/deneme20/public_html/connection/baglan.php:5
+Stack trace:
+#0 /home/deneme20/public_html/connection/baglan.php(5): PDO->__construct('mysql:host=loca...', 'root', 'localhost')
+#1 /home/deneme20/public_html/header.php(4): include('/home/deneme20/...')
+#2 /home/deneme20/public_html/index.php(1): include('/home/deneme20/...')
+#3 {main}
+  thrown in /home/deneme20/public_html/connection/baglan.php on line 5
+[19-Jun-2018 19:31:48 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/deneme20/public_html/connection/baglan.php:5
+Stack trace:
+#0 /home/deneme20/public_html/connection/baglan.php(5): PDO->__construct('mysql:host=loca...', 'root', 'localhost')
+#1 /home/deneme20/public_html/header.php(4): include('/home/deneme20/...')
+#2 /home/deneme20/public_html/index.php(1): include('/home/deneme20/...')
+#3 {main}
+  thrown in /home/deneme20/public_html/connection/baglan.php on line 5
+[19-Jun-2018 19:31:49 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/deneme20/public_html/connection/baglan.php:5
+Stack trace:
+#0 /home/deneme20/public_html/connection/baglan.php(5): PDO->__construct('mysql:host=loca...', 'root', 'localhost')
+#1 /home/deneme20/public_html/header.php(4): include('/home/deneme20/...')
+#2 /home/deneme20/public_html/index.php(1): include('/home/deneme20/...')
+#3 {main}
+  thrown in /home/deneme20/public_html/connection/baglan.php on line 5
+[19-Jun-2018 19:31:49 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/deneme20/public_html/connection/baglan.php:5
+Stack trace:
+#0 /home/deneme20/public_html/connection/baglan.php(5): PDO->__construct('mysql:host=loca...', 'root', 'localhost')
+#1 /home/deneme20/public_html/header.php(4): include('/home/deneme20/...')
+#2 /home/deneme20/public_html/index.php(1): include('/home/deneme20/...')
+#3 {main}
+  thrown in /home/deneme20/public_html/connection/baglan.php on line 5
+[19-Jun-2018 19:31:49 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/deneme20/public_html/connection/baglan.php:5
+Stack trace:
+#0 /home/deneme20/public_html/connection/baglan.php(5): PDO->__construct('mysql:host=loca...', 'root', 'localhost')
+#1 /home/deneme20/public_html/header.php(4): include('/home/deneme20/...')
+#2 /home/deneme20/public_html/index.php(1): include('/home/deneme20/...')
+#3 {main}
+  thrown in /home/deneme20/public_html/connection/baglan.php on line 5
+[02-Jul-2018 19:15:22 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/deneme20/public_html/connection/baglan.php:5
+Stack trace:
+#0 /home/deneme20/public_html/connection/baglan.php(5): PDO->__construct('mysql:host=loca...', 'root', 'localhost')
+#1 /home/deneme20/public_html/header.php(4): include('/home/deneme20/...')
+#2 /home/deneme20/public_html/index.php(1): include('/home/deneme20/...')
+#3 {main}
+  thrown in /home/deneme20/public_html/connection/baglan.php on line 5
+[02-Jul-2018 19:17:26 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'deneme20_lego'@'localhost' (using password: YES)' in /home/deneme20/public_html/connection/baglan.php:5
+Stack trace:
+#0 /home/deneme20/public_html/connection/baglan.php(5): PDO->__construct('mysql:host=loca...', 'deneme20_lego', 'localhost')
+#1 /home/deneme20/public_html/header.php(4): include('/home/deneme20/...')
+#2 /home/deneme20/public_html/index.php(1): include('/home/deneme20/...')
+#3 {main}
+  thrown in /home/deneme20/public_html/connection/baglan.php on line 5
+[02-Jul-2018 19:31:29 UTC] PHP Warning:  unlink(video//23732203542101321306SampleVideo_1280x720_1mb.mp4): No such file or directory in /home/deneme20/public_html/gelen-videolar.php on line 21
+[02-Jul-2018 19:31:33 UTC] PHP Warning:  unlink(video//28381252312979827085SampleVideo_1280x720_1mb.mp4): No such file or directory in /home/deneme20/public_html/gelen-videolar.php on line 21
+[02-Jul-2018 19:31:35 UTC] PHP Warning:  unlink(video//27246307962977429178Ekran Görüntüsü (7).png): No such file or directory in /home/deneme20/public_html/gelen-videolar.php on line 21
+[02-Jul-2018 19:31:39 UTC] PHP Warning:  unlink(video//22336308372280026608SampleVideo_1280x720_1mb.mp4): No such file or directory in /home/deneme20/public_html/gelen-videolar.php on line 21
